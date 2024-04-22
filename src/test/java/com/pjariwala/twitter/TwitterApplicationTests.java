@@ -1,10 +1,10 @@
-package com.pjariwala.blogging;
+package com.pjariwala.twitter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BloggingApplicationTests {
+class TwitterApplicationTests {
 
 	@Test
 	void contextLoads() {
