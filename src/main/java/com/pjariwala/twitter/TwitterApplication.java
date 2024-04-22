@@ -1,13 +1,13 @@
-package com.pjariwala.blogging;
+package com.pjariwala.twitter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BloggingApplication {
+public class TwitterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BloggingApplication.class, args);
+		SpringApplication.run(TwitterApplication.class, args);
 	}
 
 }
